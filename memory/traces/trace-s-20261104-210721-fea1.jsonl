@@ -1,0 +1,2 @@
+{"ts": "2026-11-04T21:07:21.092016", "session_id": "s-20261104-210721-fea1", "step": null, "event": "session_start", "payload": {"agent_name": "AI助手", "agent_type": "SimpleAgent"}}
+{"ts": "2026-11-04T21:07:21.092016", "session_id": "s-20261104-210721-fea1", "step": null, "event": "message_written", "payload": {"role": "user", "content": "现在是几点钟了"}}

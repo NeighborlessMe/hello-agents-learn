@@ -1,0 +1,3 @@
+{"ts": "2026-11-04T21:08:08.705964", "session_id": "s-20261104-210808-88dd", "step": null, "event": "session_start", "payload": {"agent_name": "AI助手", "agent_type": "SimpleAgent"}}
+{"ts": "2026-11-04T21:08:08.705964", "session_id": "s-20261104-210808-88dd", "step": null, "event": "message_written", "payload": {"role": "user", "content": "现在是几点钟了"}}
+{"ts": "2026-11-04T21:08:46.787950", "session_id": "s-20261104-210808-88dd", "step": null, "event": "session_end", "payload": {"duration": 38.083489, "final_answer": "我是一个AI助手，不能提供实时的时间信息，因为我是一个云端AI模型，不具有时钟功能。但是，我可以告诉你当前日期和时区信息。如果你想知道当前日期和时区，可以问我“当前日期”或“当前时区”，我会尽力回答。", "status": "success", "usage": {"prompt_tokens": 28, "completion_tokens": 66, "total_tokens": 94}, "latency_ms": 37695}}
